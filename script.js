@@ -1,4 +1,3 @@
-// Step 2: If-else Condition
 let number = -5; // Change this value to test
 
 if (number > 0) {
@@ -82,3 +81,4 @@ function scopeExample() {
     console.log(globalVar); 
     console.log(localVar);  
 }
+
